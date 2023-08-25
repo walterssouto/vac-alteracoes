@@ -1,0 +1,16 @@
+{
+    "type": "mashup",
+    "name": "SEIDIGI_DEMAS_VACINA_C19",
+    "description": "MS-SUS Cobertura Vacinal",
+    "homepage": "",
+    "author": "Goto",
+    "version": "1.0.0",
+    "preview": "preview.png",
+    "keywords": "qlik-sense, mashup, dashboard",
+    "license": "",
+    "repository": "",
+    "dependencies": {
+        "qlik-sense": ">=1.0.x"
+    },
+    "src": "preview.png"
+}
